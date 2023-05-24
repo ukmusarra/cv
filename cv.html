@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+		
+		/*html {
+		height:297mm;
+		width:210mm;
+		margin-left:auto;
+		margin-right:auto;
+		}*/
+		
+		.header {
+		background:white;
+		border:0px solid black;
+		padding: 0px;
+		margin: 0px;
+		font-size: 12px;
+		}
+
+		.header .left {
+		background:white;
+		margin: 0px;
+		padding: 0px;
+		flex-basis:70%;
+		}
+		
+		.header .middle {
+		background:white;
+		margin: 0px;
+		padding: 0px;
+		flex-basis:20%;
+		}
+		
+		.header .right {
+		background:white;
+		margin: 0px;
+		padding: 0px;
+		flex-basis:10%;
+		}
+		
+		/*
+		.header .right ul {
+		list-style-type:none;
+		padding:0px;
+		margin:0px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		height: 51.2px;
+		align-items:center;
+		justify-content:space-evenly;
+		}
+		*/
+		
+		.exesummary {
+		background:white;
+		border:0px solid black;
+		padding: 4px;
+		margin: 0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+
+		.associations {
+		background:white;
+		border:0px solid black;
+		padding: 4px;
+		margin: 0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+
+		.wkexp {
+		background:white;
+		border:0px solid black;
+		font-size: 30px;
+		margin: 0px;
+		padding: 0px;
+		text-align: justify;
+		}
+
+		.main {
+		border: 0px solid black;
+		padding: 10px;
+		margin: 10px 10px 0px 0px;
+		font-size: 28px;
+		}
+		
+		.main .left {
+		background:white;
+		margin:5px 5px 0px 0px;
+		padding: 5px 5px 0px 0px;
+		flex-basis:20%;
+		}
+		
+		.main .right {
+		margin:5px 0px 0px 5px;
+		padding: 5px 0px 0px 5px;
+		background:white;
+		flex-basis:80%;
+		}
+		
+		.education {
+		background:white;
+		border:0px solid black;
+		padding:0px;
+		margin:0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+			
+		.publications {
+		background:white;
+		border:0px solid black;
+		padding:0px;
+		margin:0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+
+		.development {
+		background:white;
+		border:0px solid black;
+		padding:0px;
+		margin:0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+		
+		.extra {
+		background:white;
+		border:0px solid black;
+		padding: 0px;
+		margin: 0px;
+		font-size: 30px;
+		text-align: justify;
+		}
+
+		.extra ul {
+		list-style-type:none;
+		padding:0px;
+		margin:0px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		height: 100px;
+		align-items:center;
+		justify-content:space-evenly;
+		}
+		
+		.extra li {
+		margin: 8px;
+		padding: 2px;
+		background: white;
+		border:0px solid black;
+		font-size: 30px;
+		font-weight:bolder;
+		}
+
+		body {
+		margin:0px;
+		background:white;
+		color:black;
+		font-family: 'Helvetica', 'Arial', sans-serif;
+		}
+
+		/*
+		.row {
+		display:flex;
+		page-break-inside: avoid;
+		background:white;
+		}
+		*/
+			
+		.header .row {
+		display:flex;
+		background:white;
+		justify-content: center;
+  		align-items: center;
+		}
+		
+		.row:after {
+		content: ""; 
+		display: table;
+		clear: both;
+		}
+		
+		.hr{
+		padding: 0px;
+		margin: 0px;
+		border:0px outset  grey;
+		height: 10px;
+		}
+		
+		/*
+		h1 {
+		margin: 0px;
+		padding: 0px;
+		}
+		*/
+		
+		h2 {
+		margin: 0px;
+		padding: 0px;
+		background: white; /*#ECEBEB;*/
+		color:FireBrick;
+		}
+		
+		p {
+		margin: 2px 0px;
+		padding: 2px 0px;
+		line-height: 1.6;
+		}
+		
+		ul {
+		line-height: 1.8;
+		}
+		
+	
+		/*
+		.header .left {
+		background:blue;
+		padding: 0px;
+		}
+		
+		.head {font-family:"verdana";font-size-adjust:0.58;background:lightgray;}
+		.head h1 {display:inline;margin:0px;}
+		.exesummary {font-family:"verdana"font-size-adjust:0.58;}
+		.exesummary p {color:blue;}
+		.exesummary h2 {background:lightgray;}
+		@media only screen and (max-width: 500px) {.head, .exesummary {width: 100%; margin-left: 5px;}}
+		@media screen and (max-width: 426px) {.header .left, .header .middle, .header .right {width:100%;text-align:center;background:lightgray;}
+		@media screen and (max-width: 426px) {.main .left, .main .middle, .main .right {width:100%;text-align: center;background:lightgray;}
+		
+		@media screen and (max-width: 700px) {.row {flex-direction:column;text-align:center;background:white;}}
+		@media screen and (max-width: 700px) {ul {list-style-type:none;margin:5px 0px;padding:5px 0px;}}
+		@media screen and (max-width: 700px) {li {margin:5px 0px;padding:5px 0px;}}
+		@media screen and (max-width: 700px) {.exesummary li {background:MintCream;}}
+		@media screen and (max-width: 700px) {.extra ul {width:100%;height:100%;text-align:center;background:white;}}
+		@media screen and (max-width: 700px) {html {width:100%;}}
+		@media screen and (max-width: 700px) {.header, .exesummary, .wkexp, .associations, .education, .extra {font-size: 16px;margin:15px;padding:15px;text-align: center;}}
+		@media screen and (max-width: 700px) {.main .left {flex-basis:100%; background:LightYellow;margin:0px;padding:0px;text-align: center;}}
+		@media screen and (max-width: 700px) {.main .right{flex-basis:100%; background:white;margin:0px;padding:0px;text-align: center;}}
+		@media screen and (max-width: 700px) {.profile {display: none;}}
+		@media screen and (max-width: 700px) {h2 {flex-basis:100%; background:LightYellow;color:black;margin:0px;padding:15px;text-align: center;}}
+		@media screen and (max-width: 700px) {.extra li {font-size: 16px;margin:5px;padding:5px;background:LightYellow;}}
+		@media screen and (max-width: 700px) {p {font-size: 16px;margin:20px 0px;padding:2px 0px;border:0px solid black;}}
+		*/
+
+		</style>
+		
+	</head>
+	
+	<body>
+
+		<div class="header">
+			<div class="row">
+
+				<div class="column left">
+					<h1 style="font-size: 70px">MARCELLO MUSARRA</h1>
+					<!--<ul style="list-style: none; padding: 0; font-size: 14px;">
+						<li>United Kingdom</li>
+						<li>ukmusarra@gmail.com</li>
+						<li>+44 07832 186 447</li>-->
+						<!--<li><a href="https://www.mmusarra.com">webpage</a></li>-->
+					<!--<li><a href="https://www.linkedin.com/in/marcello-musarra-29836428">LinkedIN</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=mmeng.org.ufaceapp">uFace - the tunnel app</a></li>
+					</ul>-->
+				</div>
+
+				<div class="column middle">
+					<ul style="list-style: none; font-size: 30px">
+						<li>United Kingdom</li>
+						<li><a style="text-decoration:none" href = "mailto: ukmusarra@gmail.com">ukmusarra@gmail.com</a></li>
+						<li>+44 07832 186 447</li>
+						<!--<li><a href="https://www.mmusarra.com">webpage</a></li>-->
+					</ul>
+				</div>
+
+				<div class="column right">
+					<ul style="list-style: none; font-size: 30px;">
+						<li><a href="https://www.linkedin.com/in/marcello-musarra-29836428">LinkedIN</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=mmeng.org.ufaceapp">uFace</a></li>
+					<!--<img src="C:/Users/MusarraM/OneDrive - AECOM/Documents/ice/uk-ice/cv/images/dk1.jpg" alt="mm" style="width:150px;height:145px;">-->
+					</ul>
+				</div>
+
+			</div>
+		</div>
+		
+		<hr>
+
+		<div class="exesummary">
+
+			
+
+			<div class="main">
+
+				<h1>Executive Summary</h1>
+				<!---<h2>target positions: Chief | Director | Associate</h2>-->
+				<h3>16+ years of international work experience <br> (USA, Denmark, Mexico, Italy, Brazil, UK)</h3>
+				<h3>BSc. Civil Engineer (Hons) <br> MSc. Geotechnical Engineer (Hons) <br> II Level MSc. Tunnel Design Engineer</h3>
+				<p>Performed in World's Top-Notch projects with strong leadership, solid technical background, design, construction and consultancy.</p>
+				<br>
+				<p>Strong commercial capabilities and experience with bids, technical proposals, Value Engineering and R&D.</p>
+				<br>
+				<p>Excellent competency on Data Science and experience with development tools.</p>
+				<br>					
+				<p style = "color:FireBrick">Backend / Reporting / Data Science</p>
+				<p>VBA, R, Markdown, Python, JavaScript, Latex</p>
+				<br>
+				<p style = "color:FireBrick">Frontend</p>	
+				<p>HTML, CSS, React</p>
+				<br>
+				<p style = "color:FireBrick">Databases</p>
+				<p>SQL</p>
+				<br>	
+				<p>This CV was prepared in HTML for a (one-page) minimum plain style.</p>
+
+				<!--
+				<h3>Essential Experience & Competencies: </h3>
+				<ul style="line-height: 1.8;">
+					<li>Well-rounded geotechnical construction and design experience including shallow and deep foundations, retaining walls and slope stability</li>
+					<li>Proven experience acting as a Senior/Principal geotechnical engineer with substantial experience managing well educated Engineers</li>
+					<li>Experience in project delivery, planning, supervision, aligned with EUROCODE, ASCE or BSI</li>
+					<li>Earthworks design, specification and implementation</li>
+					<li>Experience in ground investigation design and implementation</li>
+					<li>Experience in the use of routine geotechnical design programs such as VDISP/PDISP, WALLAP, SLIDE, Settle3 and SlopeW</li>
+					<li>Experience in the use of FDM and FEM analysis with design programs such as Flac and Plaxis, 2D and 3D</li>
+					<li>Good motivational and people management skills with an ability to influence staff and clients particularly regarding technical issues</li>
+					<li>Experience and understanding of the needs and approaches to engineering consultancy and design markets, including relationships with clients, work planning and commercial management</li>
+					<li>Experience managing commercial aspects of projects and involvement with R & D</li>
+					<li>Excellent communication and motivational skills</li>
+					<li>Excellent report writing skills with the ability to self-check and produce accurate deliverables</li>
+					<li>Team player, self-starter and problem solver with a mature approach</li>
+					<li>Flexible to travel or relocate</li>
+					<li>Ability to work within large multi-disciplinary engineering teams</li>
+				</ul>
+				-->
+
+				<!--
+				<p> Background includes heavy-civil infrastructure projects, such as: dams, bridges, tunnels, airports, high speed railways, deep foundation onshore/offshore and high-rise buildings.</p>
+				-->
+				
+				<h3>Key projects and roles:</h3>
+				
+				<ul style="line-height: 2.5;border:2px solid black;margin:0px;padding:10px 50px;">
+					<li>Lead Consultant B&M Group <b>UK</b></li>
+					<li>Principal Geotechnical Engineer for AECOM <b>UK</b></li>
+					<li>Senior Fairhurst's Geotechnical Engineer <b>UK</b></li>
+					<li>Executive Staff Engineer for VALE CapEX > 100M USD, top 5th mining company, <b>Brazil</b></li>
+					<li>Design Engineer High Speed Railway between Napoli and Bari, <b>Italy</b></li>
+					<li>Design Leader (onsite) New International Airport of Mexico City (NAICM), <b>Mexico</b></li>
+					<li>Senior Technical Advisor (onsite) 1.4 km Frederikssund Fjord Link High Bridge in <b>Denmark</b></li>
+					<li>Construction Manager (onsite) of multiple metro stations Yellow Line <b>Brazil</b></li>
+					<li>Project Engineer (onsite) Transbay Tower for Salesforce in San Francisco, <b>USA</b></li>
+					<li>Project Engineer (onsite) Chinatown and Moscone metro BART stations for San Francisco Municipal Transport Agency in San Francisco, <b>USA</b></li>
+					<li>Senior Engineer East Branch Dam for US Army Corps of Engineers (USACE) in Pennsylvania, <b>USA</b></li>
+				</ul>
+			</div>
+			
+		</div>
+		
+		<div class="associations">
+				
+			<div class="main">
+
+				<h1>Associations</h1>
+
+				<ul style="line-height: 2;">
+					<li>Member of the Institution of Civil Engineers (ICE) in the UK</li>	
+					<li>Chartered Engineer of the Professional Association (CREA) in Brazil</li>	
+					<li>Member of the Deep Foundations Institute (DFI) in USA</li>	
+					<li	>Member of the Danish Engineering Society (IDA) in 	Denmark</li>	
+					<li	>Member of the Danish Geotechnical Society (DGF) in Denmark</li>	
+					<li	>Former Member of the Danish Society for Tunnels and Underground Works in Denmark (2017)</li>	
+					<li	>Member of the Italian Society for Tunnels in Italy</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="wkexp">
+			
+			<div class="main">
+				<h1>Work Experience</h1>
+				<h2>Lead Geotechnical Consultant</h2>
+				<h3>B&M Consulting Group - United Kingdom | Dec 2022 to date <a href="https://www.bnmgroup.co.uk">Website</a></h3>
+				<h4>Geotechnical Consultancy with background in heavy infrastructure:</h4>
+						<ul>
+							<li>Desk Study, Geotechnical Interpretation and Baseline Reports</li>
+							<li>Geotechnical Investigation Scope and Specification</li>
+							<li>Foundation Design</li>
+							<li>Ground Improvement Design</li>
+							<li>Slope Stability Assessments</li>
+							<li>Retaining Wall Design</li>
+							<li>Technical Analysis for variety of geotechncial problems using FEM (Plaxis) or FDM (FLAC), specially for tunnels</li>
+							<li>Technical Expert Advice</li>
+							<li>Support to Geophysics Interpretation including seismic surveys and airborne/on-land electromagnetic surveys</li>
+							<li>Automation in Engineering routines and extension tools with data science algorithms and applications</li>
+						</ul>
+				<h4>Competency on <strong>data automation</strong>, machine learning algorithms, programming and Data Science deployment</h4>
+			</div>
+
+			<div class="main">
+				<h2>Principal Geotechnical Engineer</h2>
+				<h3>AECOM - United Kingdom | Nov 2021 to Dec 2022 | <a href="https://www.aecom.com">Website</a></h3>
+				<h4>Lower Thames Crossing - UK</h4>
+				<p>Geotechnical support for tender phase: GBP 5.3-6.3bn estimated cost, comprises 14.5 miles of Dual-3 Lane Expressway, over 50 bridges, two of the world's largest diameter bored tunnels (16m), longest road tunnels in the UK<p>
+				<h4>Tema Port, Ghana - Africa</h4>
+				<p>Team Leader for new optioneering and detail design to LNG (Cryogenic) ISO Truck Loading Facilities Tema Port, Ghana: The terminal has a total LNG storage capacity of approximately 200,000 m3 and was originally designed and constructed to supply natural gas to a single off-taker in the country.
+				<h4>NEOM - Saudi Arabia</h4>
+				<p>$500bn estimated project cost, it is world's most ambitious project at the moment. It will comprise the construction of an entire new smart city, covering an area of 26,500 km2, with 170km concept of "linear city". This marvellous project will comprise all different sorts of complex infrastructure, from unique modern bridges, to HSR lines and stations, viaducts, roads, earthworks and complex modern design concepts. Member of the design geotechnical team.<p>
+				<h4>Langstone Flood and Coastal Erosion Risk Management Scheme - UK</h4>
+				<p>Geotechnical team Leader for the scheme detailed design, procured by coastal erosion and flood Risk Management Authority (RMA). This project is part of the Langstone Flood and Coastal Erosion Risk Management (FCERM) program implementation. The scheme, which will introduce new and upgraded defences, is required to provide improved protection against tidal flooding to the village of Langstone.</p>
+			</div>
+
+			<div class="main">
+				<h2>Senior Geotechnical Engineer</h2>
+				<h3>Fairhurst - United Kingdom | Jan 2021 to Nov 2021 | <a href="https://www.fairhurst.co.uk">Website</a></h3>
+				<p>Technical Lead of ground Engineering projects including site characterization, geotechnical analysis, geotechnical engineering design, owner's engineering, QA/QC inspection/review, testing and reporting. Part of an integrated delivery team, comprising of other engineering disciplines, professional environmental scientists, project delivery and project support staff on existing and new projects.<p>
+				<p>Client portfolio included Developers, Owner Occupiers, Funds, Quarry Companies, Network Rail, Rail Infrastructure Contractors, Local Authorities, Civil Engineering Contractors, Renewable Energy Contractors and Oil and Gas service providers</p>
+			</div>			
+
+
+			<div class="main">
+				<h2>Senior Geotechnical Specialist | Executive Lead >100M USD CapEX</h2>
+				<h3>Vale - Brazil | Out 2019 to Dez 2020 | <a href="http://www.vale.com.br">Website</a></h3>
+				<p>Global Executive Support in Geotechnical Engineering to all capital projects above 100M USD CapEx.<p>
+				<p>Key member to executive technical approval of Capital Projects in all business sectors, including Iron Ore, Base Metals, Energy and Logistics, up to 1B USD value. High level design reviews for varied project types, such as: underground mining in Canada, new tailing dam and port plant in Malaysia, 1 to 3km bridges in Brazil, decommissioning of upstream tailing dams, dry-stacking, NATM tunnels, new and duplicated railways.</p>
+			</div>
+
+			
+			<div class="main">
+				<h2>II Master / Tunnel Design Engineer</h2>
+				<h3>Politecnico di Milano and Rocksoil - Italy | Jan 2019 to Jan 2020 | <a href="https://www.rocksoil.com">Website</a></h3>
+				<h4>2.1B EUR High Speed Railway Tunnels - Napoli to Bari</h4>
+				<p>Technical support on the Value Engineering and Finite Difference Method (FDM) analysis using FLAC for the crossing tunnels in High Speed Railway TAV (Treno Alta Velocita) between Napoli and Bari, project with total extension of approximately 18.7 kilometres.<p>
+				<p>	Post-Master specialization in Tunnel Engineering at Politecnico di Milano along with Design Engineer for Italian top industry leader Rocksoil.</p>
+			</div>
+
+
+			<div class="main">
+				<h2>Design Manager (onsite)</h2>
+				<h3>Royal Haskoning - Mexico | Jul 2018 to Jan 2019 | <a href="https://en.wikipedia.org/wiki/Mexico_City_Texcoco_Airport">Project Info</a></h3>
+				<h4>13.3B USD New International Airport of Mexico City</h4>
+				<p>Designer's Site Representative for the New International Airport of Mexico City. Extremely challenging project with more than 50m-thick soft clay to be consolidated, interbedded with compact sand layers.<p>
+				<p>Experience in pre-load surcharge, vacuum, geodrain, jet grouting and general other ground improvement techniques. Full monitoring installed, including real-time data acquisition.</p>
+				<p>Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons and platform and technical support Engineer on the Observational Method.</p>
+				<p><b>The project was cancelled in Jan 2019 by the new Mexico's President, Andres Manuel Lopez Obrador.</b></p>
+			</div>			
+
+						
+			<div class="main">
+				<h2>Senior Geotechnical Engineer (onsite)</h2>
+				<h3>Arup - Denmark | Mar 2017 to Jul 2018 | <a href="https://www.arup.com/projects/fjord-link-frederikssund">Website</a></h3>
+				<h4>160M EUR Roskilde Fjord Link Bridge</h4>
+				<p>Onsite technical supervision for the main 1.4km High Bridge substructure over the Roskilde Fjord and other 16 minor structures, comprising 6.8km of a new 4-lane expressway.<p>
+				<p>Supervision and geotechnical support for rock socket onshore and offshore bored piles with permanent and temporary steel casing, reaching max 2m diameter and 55m depth, also for shallow foundations, pre-cast shells for pier cofferdam, temporary and permanent sheet piles, embankments, pile testing and silent sheet pile wall.</p>
+				<p>Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons and platform and technical support Engineer on the Observational Method.</p>
+				<p>Responsible for review of construction submittals including method statements, NCRs, RFI, CPN, etc. as well as providing technical support to the design team and managing site supervision team of Junior Engineers.</p>
+			</div>		
+			
+
+			
+			<div class="main">
+				<h2>(Senior) Project Engineer / Manager </h2>
+				<h3>Keller - United States of America | Jan 2012 to Dec 2016 | <a href="https://www.keller.com">Website</a></h3>
+				<h4>Technical Department - Project Manager (staff)</h4>
+				<p>Key member of technical office with main duties of re-Design, feasibility analysis to support technical - bid proposals. In parallel, acting as technical support for jobsite supervisors as office-based Project Manager.</p>
+				<p>Direct contact with subcontractors and designers, attending to pre-bid meetings and proposing technical design changes to save customer's money and time, with excellence in technical practice.</p>
+				<p>Participated in the design, technical analysis and construction of metro projects consisting of tunnels with cut-and-cover, NATM and TBM technique. Also, when required from the geological profile, rock blasting and ground treatment for break-in break-out shield.</p>
+				<h4>280M USD East Branch Dam - R & D - Geotechnical Lead (staff)</h4>
+				<p>Key member on pre-construction phase for the rehabilitation program (by the USA Army Corps of Engineers) for East Branch Dam.</p>
+				<p>Scope included new deep rock socket cutoff wall with Hydromill, permeation grouting, foundation grouting, real-time instrumentation and data acquisition (Ultimate Grouting Control), georadar, ground investigation and database in gINT, live enterprise database integrated with SQL and ArcGIS.</p>
+				<p>Key member contributing to technical scope and specification requirements integration to the in-house built Data Management System, the first which has been ever done in USA with 3D real-time construction data for dams. I actively participated in the technical submittals and construction technical support.</p>
+				<h4>1.1B USD Transbay Tower/Salesforce - San Francisco - Project Engineer (onsite)</h4>
+				<p>Site Resident Project Engineer for the construction of Transbay Tower deep foundation, downtown San Francisco, which comprised 42 rock socket Load Bearing Elements (each 10'6" long x 60" wide x 270'(100m) deep). The building has 61-story and is designed to resist seismic events. It is the tallest building west of Chicago.</p>				
+				<h4>1.58B USD Chinatown and Moscone metro stations - 3rd Street Light Rail - Central T Subway - Project Engineer (onsite)</h4>
+				<p>Site Resident Project Engineer for the construction and management of new metro stations in urban areas of San Francisco, liaising with design team to resolve site-related technical queries. My responsibilities included to manage construction teams, to monitor project progress, budget control and maintain detailed daily records of site activities. Also responsible for construction-related changes, including NCRs, Field Changes and Claims, providing detailed site and technical information to substantiate the changes.</p>
+				<h4>1B USD Yellow Line-4 Metro - Site Manager (onsite)</h4>
+				<p>Site Construction Manager for Multiple Projects including the Yellow Line-4 Metro, comprising: large and deep pilling, diaphragm wall & soil treatment. The Yellow Line-4 is a metro line with 12.8 km of extension, 11 stations, total investment of 1.9B USD divided into two phases.</p>
+			</div>
+			
+			
+			<div class="main">
+				<h2>Project Engineer | QA/QC Engineer (onsite)</h2>
+				<h3>Geofix | Enbrageo | Camilotti - Brazil | Jan 2007 to Dec 2011</h3>
+
+				<p>Management and implementation of CFA, diaphragm wall and anchors at geotechnical jobsites. Supported to achieved goal of ISO certification in June 2011.</p>
+				<p>Responsible for mobilization, production, customer service, schedule and job cost. More than 25 sites were concluded in the following job types: root piles, tie-back anchors, soil nailing, micropiles, and deep bored piles.</p>
+				<p>Resident in the construction of two high rise residential towers of 24-story each, total of 24,000 m2. Supervised the secant pile wall on land perimeter for 2 basement excavation (12m) with groundwater level at top of excavation and tie-back anchors with self-perforation injection </p>			
+			</div>		
+		
+		</div>
+			
+
+		<div class="education">
+				
+			<div class="main">
+				<h1>Education</h1>
+				<h2>II Level Master | Tunnel Engineering | Italy | 2019 to 2020 </h2>
+				<h3>Politecnico di Milano</h3>
+				<p>4 months full-time followed by 8 months part-time II Level MSc. course in Tunnel Engineering.</p>
+			</div>
+
+
+			<div class="main">
+				<h2>Master of Science in Geotechnical Engineering | Brazil | 2011 to 2014 </h2>
+				<h3>University of Sao Paulo</h3>
+				<p>4 years part-time Master of Science in Geotechnical Engineering.</p>
+			</div>
+			
+
+			<div class="main">
+				<h2>Bachelor of Science (Hons) in Civil Engineering | Brazil | 2003 to 2008 </h2>
+				<h3>University of Santa Catarina</h3>
+				<p>5 years full-time Bachelor of Science in Civil Engineering.</p>
+			</div>
+
+			
+		</div>
+		
+
+		<div class="publications">
+
+			<div class="main">
+			<h1>Publications</h1>
+			<ol style="list-style-type: lower-greek;line-height: 1.6;font-size: 28px;">
+				<li style="margin-bottom: 15px;">MUSARRA, M. (2020). <b>Axis-symmetric and 2D numerical analysis for mechanized tunnel excavation</b>. II Level Master Thesis. Milano, Italy. (In English)</li>
+				<li style="margin-bottom: 15px;">MUSARRA, M., & MASSAD, F. (2015). <b>Static Load Tests in an Instrumented Rock Socket Barrette Pile</b>. Soils and Rocks Journal, v.38 II, Sao Paulo, Brazil. (In English)</li>
+				<li style="margin-bottom: 15px;">MUSARRA, M. (2014). <b>Prediction and Behavior Analysis of Instrumented Rock Socket Barrette Pile</b>. Master of Science Thesis. Polytechnic Sao Paulo School of Engineering, Sao Paulo, Brazil. (In Portuguese)</li>
+				<li style="margin-bottom: 15px;">MUSARRA, M. (2008). <b>The Use of Secant Piles for Diaphragm Wall</b>. BS. Thesis. Santa Catarina School of Engineering, Santa Catarina, Brazil. (In Portuguese)</li>
+			</ol>
+
+			</div>
+			
+		</div>
+		
+		<div class="development">
+
+			<div class="main">
+			<h1>Professional Development</h1>
+			
+			<ul style="font-size: 28px">
+				<li>Poster presententation in the upcoming World Tunneling Congress 2022 in Copenhagen, Denmark</li>
+				<li>World Tunneling Congress 2019 in Napoli, Italy</li>
+				<li>DFI-EFFC International Conference on Deep Foundations and Ground Improvement: Urbanization and Infrastructure Development-Future Challenges in Rome, Italy, 2018</li>
+				<li>Speaker at the Superpile 2016 in Chicago organized by DFI</li>
+				<li>IFCEE 2015: International Foundations Congress and Equipment Expo, San Antonio, TX</li>
+				<li>Twin Cities Soils of Metropolitan Region of Sao Paulo and Curitiba, 2012</li>
+				<li>XVI Brazilian Congress of Soil Mechanics and Geotechnical Engineering, 2012</li>
+				<li>7th Seminar on Special Foundations Engineering and Geotechnical, 2012</li>
+				<li>3rd Brazilian Congress of Tunnels and Underground Structures and International Seminar 'South American Tunneling SAT 2012'</li>
+				<li>Quality Management System - Requirements - ABNT NBR ISO 9001:2008, ABNT course, 16 hours, 2011.</li>
+				<li>Probability of Failure in Foundation Engineering, Nelson Aoki course, 16 hours, 2009</li>				
+			</ul>
+			</div>
+		</div>
+				
+		<div class="extra">
+			
+			
+			<div class="main">
+				<h1>Extra</h1>
+				
+				<p>Guitar player, data science enthusiast & self-taught IT programmer.</p> <br>
+				<p>C#, VBA, Python, Javascript, SQL, HTML, CSS and PHP.</p><br>
+				<p>This CV was written in HTML/CSS.</p> <br>
+				<p>Volunteered as football coach for kids between 6 and 12 years old in USA.</p> <br>
+				<p>Fluent in Portuguese, English and Italian. Advanced Spanish and Basic Danish</p> <br>
+				<p>The link at the top of this CV 'uFace' is my mobile app. I have developed, for educational purposes, a calculation of radial displacements for deep tunnels in cohesive soils based in new analytical approach, considering non-dimensional variables. It is based on the research work from multidisciplinary team at PoliMi. You can download it on GooglePlay.</p> <br>
+			</div>
+			
+			<h2>Full proficiency in the following IT and Engineering Software:</h2>
+
+			<ul>
+				<li>FLAC3D</li>
+				<li>3DEC</li>
+				<li>Plaxis</li>
+				<li>R</li>
+				<li>Python</li>
+				<li>LaTeX</li>
+				<li>Slide</li>
+				<li>Settle3</li>
+				<li>VDISP/PDISP</li>
+				<li>WALLAP</li>
+				<li>gINT</li>
+				<li>AutoCAD</li>
+				<li>MsProject</li>
+				<li>ArcGIS-QGIS</li>
+				<li>ProjectWise</li>
+				<li>Office</li>
+			</ul>
+
+		</div>		
+		
+	</body>
+	
+</html>
+
+<!--
+
+New International Airport of Mexico City - 13B USD
+Frederikssund Fjord Link Bridge - 200M USD
+East Branch Dam - 170M USD
+Transbay Tower - 1B USD
+
+Education
+BSc Civil Engineering
+MSc Geotechnical Engineering - USP
+II Level Master Tunnel Engineering - PoliMI
+
+Associations
+Chartered Engineer since 2008 – Brazil
+Member of the Institution of Civil Engineers since 2008 - Brazil
+Member of Deep Foundation Institute since 2014 - USA
+Member of Danish Geotechnical Society since 2017
+Member of the Italian Society for Tunnels since 2019
+
+Key Skills
+Geotechnical Engineering
+Project Management
+Design Management
+Construction Managemnt
+Technical Advice
+Design and Review
+
+KEY PROJECT EXPERIENCE Fairhurst
+
+
+
+KEY PROJECT EXPERIENCE Previous
+Napoli-Bari High Speed Railway Line - Italy 
+Apice-Hirpinia section is part of new infrastructure with a total extension of approximately 18.7 kilometers. The final project aims to double railway route with new double-track railway line between Apice and Hirpinia; new Apice stop; new station of ’Hirpinia’, in the municipal territory of Ariano Irpino. I've performed numerical analysis work for value engineering and tender to design for High Speed Railway TAV (Treno Alta Velocità) project, including conventional and mechanized tunneling methods
+
+New International Airport of Mexico City (NAICM) - USD 13B - Mexico 
+Designer’s Site Representative for the New International Airport of Mexico City, to be the busiest airport in Latin America. Extremely challenging project with more than 50m thick soft clay to be consolidated, subsidence problems, interbedded with compact sand layers. Methods included surcharge, vacuum, geodrain, jet grouting and so forth. Led the team on Runway 6, technical support on Runways 2 & 3, commercial aprons and platform. Supported on consolidation design using Observational Method and real-time instrumentation. The project was canceled in Jan 2019 by the new Mexico’s President
+
+Frederikssund Fjord Link Frederikssund - USD 200M – Denmark
+Client’s Lead Advisor
+Danish Road Directorate
+2017
+1.4km High Bridge substructure over the Roskilde Fjord and other 16 minor structures, comprising 6.8km of a new 4-lane expressway. Lead Technical Advisor on construction and geotechnical support for rock socket onshore and offshore bored piles with permanent and temporary steel casing, reaching max 2m diam. and 55m depth, also for shallow foundations, pre-cast shells for pier cofferdam, temporary and permanent sheet piles, embankments, pile testing and silent sheet pile wall
+
+East Branch Dam - USD 280M - Pennsylvania, USA
+Senior Geotechnical Engineer
+United States Army Corps of Engineers
+2015
+Key member of R&D. Scope included new deep rock socket cutoff wall with Hydromill, permeation grouting, foundation grouting, real-time instrumentation and data acquisition (Ultimate Grouting Control), georadar, ground investigation and database in gINT, live enterprise database integrated with SQL and ArcGIS. Additional work to integrate technical scope and specifications requirements with in-house built Data Management System, the first which has been ever done in USA with 3D real-time construction data for dams. Participated actively in the technical submittals and construction technical support. This was the first dam in USA receiving and managing live data from construction operations and dam monitoring systems
+
+Third Street Light Rail Project Phase 2 - USD 1.6B - San Francisco, USA
+Site Engineer
+San Francisco Municipal Transportation Agency
+2014
+Key member for rock socket diaphram walls on Chinatown and Moscone metro stations. Management of technical operations on site, liaising with design teams to resolve site-related technical queries. Construction Management of the works related to geotechnical engineering, including managing the construction teams, monitoring progress, budget control, maintaining detailed daily records of site activities. Responsible for construction-related changes, including NCRs, Field Changes and Claims, providing detailed site and technical information to substantiate the changes. Attend and chairing weekly site meetings with the Client to provide update on progress and raise any potential forthcoming issue. Collaborate with the Client to resolve issues arising from the construction works
+
+Salesforce Tower - USD 1.1B - San Francisco, USA
+Site Engineer
+Salesforce
+2014
+Saleforce Tower is a 61-story, 1070’ high rise office located in downtown San Francisco. It is the tallest building west of Chicago. Key member onsite. Scope included 42 Reinforced Concrete Load Bearing Elements (each 10’- 6” Long x 60” wide and approximately 270’ deep) by means of Slurry Wall for the building’s foundation system. Equipment on site included a hydromill and hydraulic clamshell which were used to excavate through fill, sand and silt, and clay formations. The LBEs were reinforced with 100,000-pound, 255-foot-long steel cages. Worked around the clock to meet the aggressive schedule.
+
+list-style-type:none;
+
+in the container
+display:flex (block, inline-block, table)
+flex-direction:row (column,row-reverse,column-reverse)
+flex-wrap:no-wrap(wrap, wrap-reverse)
+justify-content:flex-start(flex-end,center,space-between,space-around, space-evenly)
+align-items:center(flex-start,flex-end,stretch)
+
+in the list
+flex-basis:10%;
+
+margin
+padding
+border
+
+		html {
+		height:297mm;
+		width:210mm;
+		margin-left:auto;
+		margin-right:auto;
+		}
+
+<img class="profile" src="images/profile.png" alt="profile" width=120px style="vertical-align:middle;margin:0px 0px;opacity: 0.9;display: none;">
+
+
+			<ul>
+				<li> Support and value technical development and solid background in Geotechnical Engineering </li>
+				<li> Value decision-making capacity </li>
+				<li> Value critical thinking approach </li>
+				<li> Value communication skills and commercial achievements </li>
+				<li> Concern about Safety First and wellness of its employees </li>
+				<li> Concern about Environmental Sustainability and future generations </li>
+				<li> Support and compensate employee's career accordingly</li>
+				
+			</ul>
+			
+
+		
+
+  
+<p>Some of my key competences, skills and beliefs are:</p>
+			<ul>
+				<li>Well-rounded geotechnical design experience including foundations (shallow foundations and piles), retaining walls and slope stability assessments</li>
+				<li>Proven experience acting as a senior / principal geotechnical engineer with substantial experience</li>
+				<li>Senior experience in most aspects of projects, including planning, supervising and design, together with examples of applying standards and technical knowledge in projects</li>
+				<li>Earthworks design, specification and implementation</li>
+				<li>Experience in ground investigation design and implementation</li>
+				<li>Experience in the use of routine geotechnical design programs such as VDISP/PDISP, WALLAP, SLIDE, REPUTE and SlopeW</li>
+				<li>Good motivational and people management skills with an ability to influence staff and clients particularly regarding technical issues</li>
+				<li>Experience and understanding of the needs and approaches to engineering consultancy and design markets, including relationships with clients, work planning and commercial management</li>
+				<li>Experience managing commercial aspects of projects</li>
+				<li>Excellent communication and motivational skills</li>
+				<li>Excellent report writing skills with the ability to self-check and produce accurate deliverables</li>
+				<li>Team player, self-starter and problem solver with a mature approach</li>
+				<li>Flexible to travel for short assignments</li>
+				<li>Ability to work within large multi-disciplinary engineering teams</li>
+				<li>Fully familiar with MS Word, PowerPoint, Excel, Outlook, etc</li>
+			</ul>
+			
+ 
+
+Essential Experience & Competencies: 
+
+ 
+
+Well-rounded geotechnical design experience including foundations (shallow foundations and piles), retaining walls and slope stability assessments. 
+
+Proven experience acting as a senior / principal geotechnical engineer with substantial experience. 
+
+Post-graduate experience in most aspects of projects, including planning, supervising and design, together with examples of applying standards and technical knowledge in projects. 
+
+Earthworks design, specification and implementation. 
+
+Experience in ground investigation design and implementation. 
+
+Experience in the use of routine geotechnical design programs such as VDISP/PDISP, WALLAP, SLIDE, REPUTE and SlopeW. 
+
+Good motivational and people management skills with an ability to influence staff and clients particularly regarding technical issues. 
+
+Experience and understanding of the needs and approaches to engineering consultancy and design markets, including relationships with clients, work planning and commercial management. 
+
+Experience managing commercial aspects of projects. 
+
+Excellent communication and motivational skills. 
+
+Excellent report writing skills with the ability to self-check and produce accurate deliverables. 
+
+Team player, self-starter and problem solver with a mature approach. 
+
+Flexible to travel for short assignments. 
+
+Ability to work within large multi-disciplinary engineering teams. 
+
+Fully familiar with MS Word, PowerPoint, Excel, Outlook, etc 
+
+-->

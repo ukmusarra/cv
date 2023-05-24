@@ -12,44 +12,30 @@ MARCELLO MUSARRA
 Executive Summary
 =================
 
-### 16+ years of international work experience  
-(USA, Denmark, Mexico, Italy, Brazil, UK)
+Principal Geotechnical Engineer | Lead Consultant | Project Manager
 
-### BSc. Civil Engineer (Hons)  
-MSc. Geotechnical Engineer (Hons)  
-II Level MSc. Tunnel Design Engineer
+* 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
+* BSc. Civil Engineer (Hons)  
+* MSc. Geotechnical Engineer (Hons)  
+* II Level MSc. Tunnel Design Engineer
 
-Performed in World's Top-Notch projects with strong leadership, solid technical background, design, construction and consultancy.
+Performed in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
 
-  
+Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
 
-Strong commercial capabilities and experience with bids, technical proposals, Value Engineering and R&D.
+Excellent competency on **Data Science and experience with development tools.**
 
-  
+#### Backend / Reporting / Data Science
 
-Excellent competency on Data Science and experience with development tools.
+VBA, R, Markdown, Python, JavaScript, Latex, GitHub
 
-  
-
-Backend / Reporting / Data Science
-
-VBA, R, Markdown, Python, JavaScript, Latex
-
-  
-
-Frontend
+#### Frontend
 
 HTML, CSS, React
 
-  
-
-Databases
+#### Databases
 
 SQL
-
-  
-
-This CV was prepared in HTML for a (one-page) minimum plain style.
 
 ### Key projects and roles:
 
@@ -82,22 +68,21 @@ Work Experience
 Lead Geotechnical Consultant
 ----------------------------
 
-### B&M Consulting Group - United Kingdom | Dec 2022 to date [Website](https://www.bnmgroup.co.uk)
+### B&M Consulting Group - United Kingdom | [Website](https://www.bnmgroup.co.uk)
 
 #### Geotechnical Consultancy with background in heavy infrastructure:
 
-*   Desk Study, Geotechnical Interpretation and Baseline Reports
-*   Geotechnical Investigation Scope and Specification
-*   Foundation Design
-*   Ground Improvement Design
-*   Slope Stability Assessments
-*   Retaining Wall Design
-*   Technical Analysis for variety of geotechncial problems using FEM (Plaxis) or FDM (FLAC), specially for tunnels
-*   Technical Expert Advice
-*   Support to Geophysics Interpretation including seismic surveys and airborne/on-land electromagnetic surveys
-*   Automation in Engineering routines and extension tools with data science algorithms and applications
+* Geotechnical engineering solutions and services for heavy civil infrastructure projects
+* Offering consultation on foundation design, soil mechanics, and geotechnical aspects related to bridges, highways, tunnels, dams, and other heavy structures
+* Conducting geotechnical investigations and studies for site characterization and risk assessment, including soil testing, rock testing, and site instrumentation
+* Providing geotechnical design recommendations and analysis for foundation systems, retaining walls, earthworks, and other geotechnical design elements
+* Offering construction inspection and geotechnical construction materials testing services
+* Providing geotechnical risk assessments
+* Providing geotechnical consultancy services for site remediation, slope stabilization, and foundation repair
+* Providing geohazard assessments and risk mitigation plans
+* Conducting geotechnical research and development, and providing technical training and development for clients
 
-#### Competency on **data automation**, machine learning algorithms, programming and Data Science deployment
+**Competency on data automation, machine learning algorithms, programming and Data Science analysis.**
 
 Principal Geotechnical Engineer
 -------------------------------
@@ -273,29 +258,11 @@ Professional Development
 Extra
 =====
 
-Guitar player, data science enthusiast & self-taught IT programmer.
-
-  
-
-C#, VBA, Python, Javascript, SQL, HTML, CSS and PHP.
-
-  
-
-This CV was written in HTML/CSS.
-
-  
-
-Volunteered as football coach for kids between 6 and 12 years old in USA.
-
-  
-
-Fluent in Portuguese, English and Italian. Advanced Spanish and Basic Danish
-
-  
-
-The link at the top of this CV 'uFace' is my mobile app. I have developed, for educational purposes, a calculation of radial displacements for deep tunnels in cohesive soils based in new analytical approach, considering non-dimensional variables. It is based on the research work from multidisciplinary team at PoliMi. You can download it on GooglePlay.
-
-  
+* Guitar player, data science enthusiast & self-taught IT programmer.
+* Experience with C#, VBA, Python, Javascript, SQL, HTML, CSS and PHP.
+* Volunteered as football coach for kids between 6 and 12 years old in USA.
+* Fluent in Portuguese, English and Italian. Advanced Spanish and Basic Danish
+* The link at the top of this CV 'uFace' is my mobile app. I have developed, for educational purposes, a calculation of radial displacements for deep tunnels in cohesive soils based in new analytical approach, considering non-dimensional variables. It is based on the research work from multidisciplinary team at PoliMi. You can download it on GooglePlay.
 
 Full proficiency in the following IT and Engineering Software:
 --------------------------------------------------------------

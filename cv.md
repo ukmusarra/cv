@@ -2,7 +2,7 @@ MARCELLO MUSARRA
 ================
 
 *   United Kingdom
-*   [ukmusarra@gmail.com](mailto: ukmusarra@gmail.com)
+*   [ukmusarra@gmail.com]
 *   +44 07832 186 447
 
 *   [LinkedIN](https://www.linkedin.com/in/marcello-musarra-29836428)

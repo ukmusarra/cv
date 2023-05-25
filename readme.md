@@ -65,8 +65,8 @@ Associations
 Work Experience
 ===============
 
-Lead Geotechnical Consultant
-----------------------------
+Managing Director
+-----------------
 
 ### B&M Consulting Group - United Kingdom | [Website](https://www.bnmgroup.co.uk)
 

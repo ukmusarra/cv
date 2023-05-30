@@ -254,10 +254,10 @@ Publications
 Professional Development
 ========================
 
-*   Poster presententation in the upcoming World Tunneling Congress 2022 in Copenhagen, Denmark
+*   **Poster presententation** in the upcoming **World Tunneling Congress 2022** in Copenhagen, Denmark
 *   World Tunneling Congress 2019 in Napoli, Italy
 *   DFI-EFFC International Conference on Deep Foundations and Ground Improvement: Urbanization and Infrastructure Development-Future Challenges in Rome, Italy, 2018
-*   Speaker at the Superpile 2016 in Chicago organized by DFI
+*   **Speaker at the Superpile 2016 in Chicago** organized by DFI
 *   IFCEE 2015: International Foundations Congress and Equipment Expo, San Antonio, TX
 *   Twin Cities Soils of Metropolitan Region of Sao Paulo and Curitiba, 2012
 *   XVI Brazilian Congress of Soil Mechanics and Geotechnical Engineering, 2012
@@ -271,7 +271,7 @@ Extra
 
 * Guitar player.
 * Volunteered as football coach for kids between 6 and 12 years old in USA.
-* Fluent in Portuguese, English and Italian. Advanced Spanish and Basic Danish
+* Fluent in **Portuguese, English and Italian**. Advanced Spanish and Basic Danish
 * [uFace](https://play.google.com/store/apps/details?id=mmeng.org.ufaceapp) is my mobile app available on GooglePlay.
 
 Full proficiency in the following IT and Engineering Software:

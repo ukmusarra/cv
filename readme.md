@@ -12,7 +12,7 @@ MARCELLO MUSARRA
 Executive Summary
 =================
 
-### 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
+### 16+ years of international work experience in global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
 
 Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
 

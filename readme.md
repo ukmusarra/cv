@@ -67,7 +67,7 @@ Associations
 Work Experience
 ===============
 
-<img src="https://i0.wp.com/bnmgroup.co.uk/wp-content/uploads/2023/04/logo3.png?resize=300%2C132&ssl=1" alt= "" width="20%"/>
+<img src="https://i0.wp.com/bnmgroup.co.uk/wp-content/uploads/2023/04/logo3.png?resize=300%2C132&ssl=1" alt= "" width="50%"/>
 
 Managing Director
 -----------------
@@ -97,7 +97,7 @@ Managing Director
 
 * * *
 
-<img src="https://aecom.com/wp-content/uploads/2023/03/AECOM_Logo_Black_RGB.jpg" alt= "" width="20%"/>
+<img src="https://aecom.com/wp-content/uploads/2023/03/AECOM_Logo_Black_RGB.jpg" alt= "" width="50%"/>
 
 Principal Geotechnical Engineer
 -------------------------------
@@ -130,7 +130,7 @@ Geotechnical team Leader for the scheme detailed design, procured by coastal ero
 
 * * *
 
-<img src="https://www.fairhurst.co.uk/wp-content/themes/fairhurst/assets/img/logo-fairhurst.png" alt= "" width="25%"/>
+<img src="https://www.fairhurst.co.uk/wp-content/themes/fairhurst/assets/img/logo-fairhurst.png" alt= "" width="50%"/>
 
 Senior Geotechnical Engineer
 ----------------------------
@@ -150,7 +150,7 @@ Part of an integrated delivery team, comprising of other engineering disciplines
 
 * * *
 
-<img src="https://cdn.cookielaw.org/logos/9ba68c80-813d-4500-99f7-c620c54620bc/4f5b6ac2-1b26-44a7-bce4-c9d6b6cf55fe/275110e4-d5dc-4ae2-a0ff-acaf61612a7a/MicrosoftTeams-image_(1).png" alt= "" width="20%"/>
+<img src="https://cdn.cookielaw.org/logos/9ba68c80-813d-4500-99f7-c620c54620bc/4f5b6ac2-1b26-44a7-bce4-c9d6b6cf55fe/275110e4-d5dc-4ae2-a0ff-acaf61612a7a/MicrosoftTeams-image_(1).png" alt= "" width="50%"/>
 
 Senior Geotechnical Specialist | Executive Lead >100M USD CapEX
 ---------------------------------------------------------------
@@ -179,7 +179,7 @@ High level design reviews for varied project types, such as:
 
 * * *
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_Politecnico_Milano.png" alt= "" width="15%"/> <img src="https://about.ita-aites.org/images/supporters/LogoRS%20trasparente.gif" alt= "" width="25%"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_Politecnico_Milano.png" alt= "" width="35%"/> <img src="https://about.ita-aites.org/images/supporters/LogoRS%20trasparente.gif" alt= "" width="50%"/> 
 
 II Master / Tunnel Design Engineer
 ----------------------------------
@@ -195,7 +195,7 @@ Post-Master specialization in Tunnel Engineering at Politecnico di Milano along 
 
 * * *
 
-<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_Royal_HaskoningDHV.jpg" alt= "" width="20%"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_Royal_HaskoningDHV.jpg" alt= "" width="50%"/>
 
 
 Design Manager (onsite)
@@ -204,7 +204,7 @@ Design Manager (onsite)
 ### Royal Haskoning - Mexico | Jul 2018 to Jan 2019 | [Project Info](https://en.wikipedia.org/wiki/Mexico_City_Texcoco_Airport)
 
 #### 13.3B USD New International Airport of Mexico City
-![airport-mx](https://www.international-construction.com/Images/1260x628/20210701-165014-New-Mexico-City-international-airport.jpg))
+![airport-mx](https://www.international-construction.com/Images/1260x628/20210701-165014-New-Mexico-City-international-airport.jpg)
 
 Designer's Site Representative for the New International Airport of Mexico City. Extremely challenging project with more than 50m-thick soft clay to be consolidated, interbedded with compact sand layers.
 
@@ -216,7 +216,7 @@ Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons a
 
 * * *
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arup_logo.svg/1200px-Arup_logo.svg.png" alt= "" width="20%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arup_logo.svg/1200px-Arup_logo.svg.png" alt= "" width="50%"/>
 
 
 Senior Geotechnical Engineer (onsite)
@@ -236,7 +236,7 @@ Responsible for review of construction submittals including method statements, N
 
 * * *
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Keller_Group_logo.svg/1200px-Keller_Group_logo.svg.png" alt= "" width="20%"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Keller_Group_logo.svg/1200px-Keller_Group_logo.svg.png" alt= "" width="50%"/>
 
 Project Engineer to Senior / Manager
 -----------------------------------

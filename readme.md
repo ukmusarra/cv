@@ -14,12 +14,12 @@ Executive Summary
 
 ### 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
 
-> Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
->
-> Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
-> 
-> Excellent competency on **Data Science and experience with development tools.**
-> 
+Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
+
+Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
+
+Excellent competency on **Data Science and experience with development tools.**
+
 > Backend / Reporting / Data Science
 > - VBA
 > - R

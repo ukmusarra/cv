@@ -20,7 +20,7 @@ Strong commercial capabilities and **experience with bids, technical proposals, 
 
 Excellent competency on **Data Science and experience with development tools.**
 
-> Backend / Reporting / Data Science
+> **Backend / Reporting / Data Science**
 > - VBA
 > - R
 > - Markdown
@@ -29,12 +29,12 @@ Excellent competency on **Data Science and experience with development tools.**
 > - Latex
 > - GitHub
 >
-> Frontend
+> **Frontend**
 > - HTML
 > - CSS
 > - React
 >
-> Databases
+> **Databases**
 >  - SQL
 
 ### Key projects and roles:
@@ -59,7 +59,7 @@ Excellent competency on **Data Science and experience with development tools.**
 > 
 > Senior Engineer &#124; East Branch Dam for US Army Corps of Engineers (USACE) &#124; Keller **USA**
 > 
-> Construction Manager (onsite) &#124; multiple metro stations Yellow Line &#124;Keller **Brazil**
+> Construction Manager (onsite) &#124; multiple metro stations Yellow Line &#124; Keller **Brazil**
 
 Associations
 ============

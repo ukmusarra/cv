@@ -12,11 +12,11 @@ MARCELLO MUSARRA
 Executive Summary
 =================
 
-Principal Geotechnical Engineer | Lead Consultant | Project Manager
+Managing Director | Principal Geotechnical Engineer | Lead Consultant | Project Manager
 
 * 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
-* BSc. Civil Engineer (Hons)  
-* MSc. Geotechnical Engineer (Hons)  
+* BSc. Civil Engineer
+* MSc. Geotechnical Engineer
 * II Level MSc. Tunnel Design Engineer
 
 Performed in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
@@ -39,17 +39,17 @@ SQL
 
 ### Key projects and roles:
 
-*   Lead Consultant B&M Group **UK**
-*   Principal Geotechnical Engineer for AECOM **UK**
-*   Senior Fairhurst's Geotechnical Engineer **UK**
-*   Executive Staff Engineer for VALE CapEX > 100M USD, top 5th mining company, **Brazil**
-*   Design Engineer High Speed Railway between Napoli and Bari, **Italy**
-*   Design Leader (onsite) New International Airport of Mexico City (NAICM), **Mexico**
-*   Senior Technical Advisor (onsite) 1.4 km Frederikssund Fjord Link High Bridge in **Denmark**
-*   Construction Manager (onsite) of multiple metro stations Yellow Line **Brazil**
-*   Project Engineer (onsite) Transbay Tower for Salesforce in San Francisco, **USA**
-*   Project Engineer (onsite) Chinatown and Moscone metro BART stations for San Francisco Municipal Transport Agency in San Francisco, **USA**
-*   Senior Engineer East Branch Dam for US Army Corps of Engineers (USACE) in Pennsylvania, **USA**
+*   Managing Director | B&M Group **UK**
+*   Principal Geotechnical Engineer | AECOM **UK**
+*   Senior Geotechnical Engineer | Fairhurst **UK**
+*   Executive Staff Engineer CapEX > 100M USD | VALE **Brazil**
+*   Tunnel Design Engineer | High Speed Railway Napoli - Bari | Rocksoil **Italy**
+*   Design Leader (onsite) | New International Airport of Mexico City (NAICM) | RHDHV **Mexico**
+*   Senior Technical Advisor (onsite) | 1.4 km Frederikssund Fjord Link High Bridge | Arup **Denmark**
+*   Project Engineer (onsite) | Transbay Tower for Salesforce in San Francisco | Keller **USA**
+*   Project Engineer (onsite) | Chinatown and Moscone metro stations for SFMTA, San Francisco | Keller **USA**
+*   Senior Engineer | East Branch Dam for US Army Corps of Engineers (USACE) | Keller **USA**
+*   Construction Manager (onsite) | multiple metro stations Yellow Line | Keller **Brazil**
 
 Associations
 ============

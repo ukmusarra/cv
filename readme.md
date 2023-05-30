@@ -12,30 +12,30 @@ MARCELLO MUSARRA
 Executive Summary
 =================
 
-Managing Director | Principal Geotechnical Engineer | Lead Consultant | Project Manager
+### 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
 
-> **16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)**
-> - BSc. Civil Engineer
-> - MSc. Geotechnical Engineer
-> - II Level MSc. Tunnel Design Engineer
-
-Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
-
-Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
-
-Excellent competency on **Data Science and experience with development tools.**
-
-#### Backend / Reporting / Data Science
-
-VBA, R, Markdown, Python, JavaScript, Latex, GitHub
-
-#### Frontend
-
-HTML, CSS, React
-
-#### Databases
-
-SQL
+> Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
+>
+> Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
+> 
+> Excellent competency on **Data Science and experience with development tools.**
+> 
+> Backend / Reporting / Data Science
+> - VBA
+> - R
+> - Markdown
+> - Python
+> - JavaScript
+> - Latex
+> - GitHub
+>
+> Frontend
+> - HTML
+> - CSS
+> - React
+>
+> Databases
+>  - SQL
 
 ### Key projects and roles:
 

@@ -20,6 +20,8 @@ Strong commercial capabilities and **experience with bids, technical proposals, 
 
 Excellent competency on **Data Science and experience with development tools.**
 
+#### Coding knowledge:
+
 > **Backend / Reporting / Data Science**
 > - VBA
 > - R

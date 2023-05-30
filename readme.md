@@ -39,27 +39,27 @@ SQL
 
 ### Key projects and roles:
 
-> Managing Director | B&M Group **UK**
+> Managing Director &#124; B&M Group **UK**
 >
-> Principal Geotechnical Engineer | AECOM **UK**
+> Principal Geotechnical Engineer &#124; AECOM **UK**
 >
-> Senior Geotechnical Engineer | Fairhurst **UK**
+> Senior Geotechnical Engineer &#124; Fairhurst **UK**
 > 
-> Executive Staff Engineer CapEX > 100M USD | VALE **Brazil**
+> Executive Staff Engineer CapEX > 100M USD &#124; VALE **Brazil**
 >
-> Tunnel Design Engineer | High Speed Railway Napoli - Bari | Rocksoil **Italy**
+> Tunnel Design Engineer &#124; High Speed Railway Napoli - Bari &#124; Rocksoil **Italy**
 >
-> Design Leader (onsite) | New International Airport of Mexico City (NAICM) | RHDHV **Mexico**
+> Design Leader (onsite) &#124; New International Airport of Mexico City (NAICM) &#124; RHDHV **Mexico**
 > 
-> Senior Technical Advisor (onsite) | 1.4 km Frederikssund Fjord Link High Bridge | Arup **Denmark**
+> Senior Technical Advisor (onsite) &#124; 1.4 km Frederikssund Fjord Link High Bridge &#124; Arup **Denmark**
 > 
-> Project Engineer (onsite) | Transbay Tower for Salesforce in San Francisco | Keller **USA**
+> Project Engineer (onsite) &#124; Transbay Tower for Salesforce in San Francisco &#124; Keller **USA**
 > 
-> Project Engineer (onsite) | Chinatown and Moscone metro stations for SFMTA, San Francisco | Keller **USA**
+> Project Engineer (onsite) &#124; Chinatown and Moscone metro stations for SFMTA, San Francisco &#124; Keller **USA**
 > 
-> Senior Engineer | East Branch Dam for US Army Corps of Engineers (USACE) | Keller **USA**
+> Senior Engineer &#124; East Branch Dam for US Army Corps of Engineers (USACE) &#124; Keller **USA**
 > 
-> Construction Manager (onsite) | multiple metro stations Yellow Line | Keller **Brazil**
+> Construction Manager (onsite) &#124; multiple metro stations Yellow Line &#124;Keller **Brazil**
 
 Associations
 ============

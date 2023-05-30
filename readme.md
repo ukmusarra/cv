@@ -65,6 +65,8 @@ Associations
 Work Experience
 ===============
 
+<img src="https://i0.wp.com/bnmgroup.co.uk/wp-content/uploads/2023/04/logo3.png?resize=300%2C132&ssl=1" alt= "" width="20%"/>
+
 Managing Director
 -----------------
 

@@ -277,19 +277,19 @@ Extra
 Full proficiency in the following IT and Engineering Software:
 --------------------------------------------------------------
 
-*   FLAC3D
-*   3DEC
-*   Plaxis
-*   R
-*   Python
-*   LaTeX
-*   Slide
-*   Settle3
-*   VDISP/PDISP
-*   WALLAP
-*   gINT
-*   AutoCAD
-*   MsProject
-*   ArcGIS-QGIS
-*   ProjectWise
-*   Office
+    FLAC3D
+    3DEC
+    Plaxis
+    R
+    Python
+    LaTeX
+    Slide
+    Settle3
+    VDISP/PDISP
+    WALLAP
+    gINT
+    AutoCAD
+    MsProject
+    ArcGIS-QGIS
+    ProjectWise
+    Office

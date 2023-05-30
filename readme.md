@@ -39,38 +39,38 @@ Excellent competency on **Data Science and experience with development tools.**
 
 ### Key projects and roles:
 
-> Managing Director &#124; B&M Group **UK**
->
-> Principal Geotechnical Engineer &#124; AECOM **UK**
->
-> Senior Geotechnical Engineer &#124; Fairhurst **UK**
-> 
-> Executive Staff Engineer CapEX > 100M USD &#124; VALE **Brazil**
->
-> Tunnel Design Engineer &#124; High Speed Railway Napoli - Bari &#124; Rocksoil **Italy**
->
-> Design Leader (onsite) &#124; New International Airport of Mexico City (NAICM) &#124; RHDHV **Mexico**
-> 
-> Senior Technical Advisor (onsite) &#124; 1.4 km Frederikssund Fjord Link High Bridge &#124; Arup **Denmark**
-> 
-> Project Engineer (onsite) &#124; Transbay Tower for Salesforce in San Francisco &#124; Keller **USA**
-> 
-> Project Engineer (onsite) &#124; Chinatown and Moscone metro stations for SFMTA, San Francisco &#124; Keller **USA**
-> 
-> Senior Engineer &#124; East Branch Dam for US Army Corps of Engineers (USACE) &#124; Keller **USA**
-> 
-> Construction Manager (onsite) &#124; multiple metro stations Yellow Line &#124; Keller **Brazil**
+Managing Director &#124; B&M Group **UK**
+
+Principal Geotechnical Engineer &#124; AECOM **UK**
+
+Senior Geotechnical Engineer &#124; Fairhurst **UK**
+ 
+Executive Staff Engineer CapEX > 100M USD &#124; VALE **Brazil**
+
+Tunnel Design Engineer &#124; High Speed Railway Napoli - Bari &#124; Rocksoil **Italy**
+
+Design Leader (onsite) &#124; New International Airport of Mexico City (NAICM) &#124; RHDHV **Mexico**
+ 
+Senior Technical Advisor (onsite) &#124; 1.4 km Frederikssund Fjord Link High Bridge &#124; Arup **Denmark**
+ 
+Project Engineer (onsite) &#124; Transbay Tower for Salesforce in San Francisco &#124; Keller **USA**
+ 
+Project Engineer (onsite) &#124; Chinatown and Moscone metro stations for SFMTA, San Francisco &#124; Keller **USA**
+ 
+Senior Engineer &#124; East Branch Dam for US Army Corps of Engineers (USACE) &#124; Keller **USA**
+ 
+Construction Manager (onsite) &#124; multiple metro stations Yellow Line &#124; Keller **Brazil**
 
 Associations
 ============
 
-*   Member of the Institution of Civil Engineers (ICE) in the UK
-*   Chartered Engineer of the Professional Association (CREA) in Brazil
-*   Member of the Deep Foundations Institute (DFI) in USA
-*   Member of the Danish Engineering Society (IDA) in Denmark
-*   Member of the Danish Geotechnical Society (DGF) in Denmark
-*   Former Member of the Danish Society for Tunnels and Underground Works in Denmark (2017)
-*   Member of the Italian Society for Tunnels in Italy
+> - Member of the Institution of Civil Engineers (ICE) in the UK
+> - Chartered Engineer of the Professional Association (CREA) in Brazil
+> - Member of the Deep Foundations Institute (DFI) in USA
+> - Member of the Danish Engineering Society (IDA) in Denmark
+> - Member of the Danish Geotechnical Society (DGF) in Denmark
+> - Former Member of the Danish Society for Tunnels and Underground Works in Denmark (2017)
+> - Member of the Italian Society for Tunnels in Italy
 
 Work Experience
 ===============

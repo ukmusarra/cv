@@ -54,13 +54,13 @@ Excellent competency on **Data Science and experience with development tools.**
 Associations
 ============
 
-> - Member of the Institution of Civil Engineers (ICE) in the UK
-> - Chartered Engineer of the Professional Association (CREA) in Brazil
-> - Member of the Deep Foundations Institute (DFI) in USA
-> - Member of the Danish Engineering Society (IDA) in Denmark
-> - Member of the Danish Geotechnical Society (DGF) in Denmark
-> - Former Member of the Danish Society for Tunnels and Underground Works in Denmark (2017)
-> - Member of the Italian Society for Tunnels in Italy
+- Member of the Institution of Civil Engineers (ICE) in the UK
+- Chartered Engineer of the Professional Association (CREA) in Brazil
+- Member of the Deep Foundations Institute (DFI) in USA
+- Member of the Danish Engineering Society (IDA) in Denmark
+- Member of the Danish Geotechnical Society (DGF) in Denmark
+- Former Member of the Danish Society for Tunnels and Underground Works in Denmark (2017)
+- Member of the Italian Society for Tunnels in Italy
 
 Work Experience
 ===============
@@ -83,33 +83,62 @@ Managing Director
 * Geotechnical research and development, technical training and data-driven support
 * **Design and Implementation** data automation, machine learning algorithms, web app deployment and data science analysis.
 
+* * *
+
+<img src="https://aecom.com/wp-content/uploads/2023/03/AECOM_Logo_Black_RGB.jpg" alt= "" width="20%"/>
+
 Principal Geotechnical Engineer
 -------------------------------
 
-### AECOM - United Kingdom | Nov 2021 to Dec 2022 | [Website](https://www.aecom.com)
+### AECOM - United Kingdom | Nov 2021 to Dec 2022 | [Website](https://www.aecom.com) 
 
-#### Lower Thames Crossing - UK
+#### Lower Thames Crossing - UK 
+
+![thames](https://highwaysengland.citizenspace.com/ltc/lower-thames-crossing-consultation/user_uploads/route-map.jpg-1)
 
 Geotechnical support for tender phase: *GBP 5.3-6.3bn estimated cost*, comprises 14.5 miles of Dual-3 Lane Expressway, over 50 bridges, two of the world's largest diameter bored tunnels (16m), longest road tunnels in the UK
 
 #### Tema Port, Ghana - Africa
 
+![tema](https://images-global.nhst.tech/image/S09pTGxFdFNUMlkyWHptaXp0L3FXeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/061eb457d16fdcb97fa659c73d8ed0d4)
+
 Team Leader for new optioneering and detail design to *LNG (Cryogenic) ISO Truck Loading Facilities Tema Port, Ghana*: The terminal has a total LNG storage capacity of approximately 200,000 m3 and was originally designed and constructed to supply natural gas to a single off-taker in the country.
 
 #### NEOM - Saudi Arabia
+
+![neom](https://static.dezeen.com/uploads/2023/02/neon-170-kilometre-long-skyscraper-city-saudi-arabia-the-line_12_dezeen_2364_col_0-1704x1243hero.jpg)
 
 *$500bn estimated project cost, it is world's most ambitious project at the moment*. Construction of an entire new smart city, covering an area of 26,500 km2, with 170km concept of "linear city". Includes complex infrastructure, from unique modern bridges, to HSR lines and stations, earthworks and complex modern design concepts. Member of the geotechnical design team.
 
 #### Langstone Flood and Coastal Erosion Risk Management Scheme - UK
 
+![langstone](https://coastalpartners.org.uk/static/media/resources/dji-0051.JPG?req=eyJ3IjoyMDAwLCJoIjoyMDAwLCJmIjoibGliXFxtZWRpYVxcZm9ybWF0c1xcU2NhbGVGaXQiLCJxIjo3MCwidSI6ZmFsc2V9)
+
 Geotechnical team Leader for the scheme detailed design, procured by coastal erosion and flood Risk Management Authority (RMA). This project is part of the *Langstone Flood and Coastal Erosion Risk Management (FCERM) program implementation*. The scheme, which will introduce new and upgraded defences, is required to provide improved protection against tidal flooding to the village of Langstone.
+
+* * *
+
+<img src="https://www.fairhurst.co.uk/wp-content/themes/fairhurst/assets/img/logo-fairhurst.png" alt= "" width="25%"/>
 
 Senior Geotechnical Engineer
 ----------------------------
 
 ### Fairhurst - United Kingdom | Jan 2021 to Nov 2021 | [Website](https://www.fairhurst.co.uk)
 
-Technical Lead of ground Engineering projects including *site characterization, geotechnical analysis, geotechnical engineering design, owner's engineering, QA/QC inspection/review, testing and reporting.* Part of an integrated delivery team, comprising of other engineering disciplines, professional environmental scientists, project delivery and project support staff on existing and new projects.
+Technical Lead of ground Engineering projects including:
+
+- Site Characterization
+- Geotechnical Analysis
+- Geotechnical Engineering Design
+- Owner's Engineering
+- QA/QC Inspection/Review
+- Testing and Reporting
+
+Part of an integrated delivery team, comprising of other engineering disciplines, professional environmental scientists, project delivery and project support staff on existing and new projects.
+
+* * *
+
+<img src="https://cdn.cookielaw.org/logos/9ba68c80-813d-4500-99f7-c620c54620bc/4f5b6ac2-1b26-44a7-bce4-c9d6b6cf55fe/275110e4-d5dc-4ae2-a0ff-acaf61612a7a/MicrosoftTeams-image_(1).png" alt= "" width="20%"/>
 
 Senior Geotechnical Specialist | Executive Lead >100M USD CapEX
 ---------------------------------------------------------------
@@ -118,9 +147,27 @@ Senior Geotechnical Specialist | Executive Lead >100M USD CapEX
 
 Global Executive Support in Geotechnical Engineering to capital projects above 100M USD CapEx.
 
-Key member to executive technical approval of Capital Projects in all business sectors, including Iron Ore, Base Metals, Energy and Logistics, up to 1B USD value. 
+Key member to executive technical approval of Capital Projects in all business sectors, including:
 
-High level design reviews for varied project types, such as: underground mining in Canada, tailing dam and port plant in Malaysia, 1 to 3km bridges in Brazil, decommissioning of upstream tailing dams, dry-stacking, tunnels and railways.
+- Iron Ore
+- Base Metals
+- Energy and Logistics
+
+Projects reaaching 1B USD CapEX.
+
+High level design reviews for varied project types, such as: 
+
+- Underground mining in Canada
+- Tailing dam and port plant in Malaysia
+- 1 to 3km bridges in Brazil
+- Decommissioning of upstream tailing dams
+- Dry-stacking
+- Tunnels
+- Railways.
+
+* * *
+
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_Politecnico_Milano.png" alt= "" width="15%"/> <img src="https://about.ita-aites.org/images/supporters/LogoRS%20trasparente.gif" alt= "" width="25%"/> 
 
 II Master / Tunnel Design Engineer
 ----------------------------------
@@ -128,10 +175,16 @@ II Master / Tunnel Design Engineer
 ### Politecnico di Milano and Rocksoil - Italy | Jan 2019 to Jan 2020 | [Website](https://www.rocksoil.com)
 
 #### 2.1B EUR High Speed Railway Tunnels - Napoli to Bari
+![napoli-bari](https://www.railjournal.com/wp-content/uploads/2020/09/Bari-Naples-HS-route-map.jpg)
 
 Technical support on the Value Engineering and Finite Difference Method (FDM) analysis using FLAC for the crossing tunnels in High Speed Railway between Napoli and Bari, project with total extension of approximately 18.7 kilometres.
 
 Post-Master specialization in Tunnel Engineering at Politecnico di Milano along with Design Engineer for Italian industry leader Rocksoil.
+
+* * *
+
+<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_Royal_HaskoningDHV.jpg" alt= "" width="20%"/>
+
 
 Design Manager (onsite)
 -----------------------
@@ -139,6 +192,7 @@ Design Manager (onsite)
 ### Royal Haskoning - Mexico | Jul 2018 to Jan 2019 | [Project Info](https://en.wikipedia.org/wiki/Mexico_City_Texcoco_Airport)
 
 #### 13.3B USD New International Airport of Mexico City
+![airport-mx](https://www.international-construction.com/Images/1260x628/20210701-165014-New-Mexico-City-international-airport.jpg))
 
 Designer's Site Representative for the New International Airport of Mexico City. Extremely challenging project with more than 50m-thick soft clay to be consolidated, interbedded with compact sand layers.
 
@@ -148,6 +202,11 @@ Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons a
 
 **The project was cancelled in Jan 2019 by the new Mexico's President, Andres Manuel Lopez Obrador.**
 
+* * *
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arup_logo.svg/1200px-Arup_logo.svg.png" alt= "" width="20%"/>
+
+
 Senior Geotechnical Engineer (onsite)
 -------------------------------------
 
@@ -155,13 +214,19 @@ Senior Geotechnical Engineer (onsite)
 
 #### 160M EUR Roskilde Fjord Link Bridge
 
+![roskilde](https://www.worldhighways.com/sites/ropl-wh/files/147339.jpg)
+
 Onsite technical supervision for the main 1.4km High Bridge substructure over the Roskilde Fjord and other 16 minor structures, comprising 6.8km of a new 4-lane expressway.
 
 Supervision and geotechnical support for rock socket onshore and offshore bored piles with permanent and temporary steel casing, reaching max 2m diameter and 55m depth, also for shallow foundations, pre-cast shells for pier cofferdam, temporary and permanent sheet piles, embankments, pile testing and silent sheet pile wall.
 
 Responsible for review of construction submittals including method statements, NCRs, RFI, CPN, etc. as well as providing technical support to the design team and managing site supervision team of Junior Engineers.
 
-(Senior) Project Engineer / Manager
+* * *
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Keller_Group_logo.svg/1200px-Keller_Group_logo.svg.png" alt= "" width="20%"/>
+
+Project Engineer to Senior / Manager
 -----------------------------------
 
 ### Keller - United States of America | Jan 2012 to Dec 2016 | [Website](https://www.keller.com)
@@ -176,6 +241,8 @@ Participated in the design, technical analysis and construction of metro project
 
 #### 280M USD East Branch Dam - R & D - Geotechnical Lead (staff)
 
+![east-branch-dam](https://media.defense.gov/2022/May/04/2002989715/740/740/0/220504-A-XW512-1005.JPG)
+
 Key member on pre-construction phase for the rehabilitation program (by the USA Army Corps of Engineers) for East Branch Dam.
 
 Scope included new *deep rock socket cutoff wall with Hydromill, permeation grouting, foundation grouting, real-time instrumentation and data acquisition (Ultimate Grouting Control), georadar, ground investigation and database in gINT, live enterprise database integrated with SQL and ArcGIS.*
@@ -184,15 +251,24 @@ Key member contributing to technical scope and specification requirements integr
 
 #### 1.1B USD Transbay Tower/Salesforce - San Francisco - Project Engineer (onsite)
 
+![transbay-tower](https://s3.amazonaws.com/hines-images/transbay-tower/Salesforce-Tower_Ext_Aerial_hres.gif)
+
 Site Resident Project Engineer for the construction of Transbay Tower deep foundation, downtown San Francisco, which comprised 42 rock socket Load Bearing Elements (each 10'6" long x 60" wide x 270'(100m) deep). The building has 61-story and is designed to resist seismic events. It is the tallest building west of Chicago.
 
 #### 1.58B USD Chinatown and Moscone metro stations - 3rd Street Light Rail - Central T Subway - Project Engineer (onsite)
+
+![sfmta](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/11/932/524/central_subway_weekend_rail_shuttle-1.png?ve=1&tl=1)
 
 Site Resident Project Engineer for the construction and management of new metro stations in urban areas of San Francisco, liaising with design team to resolve site-related technical queries. My responsibilities included to manage construction teams, monitor project progress, budget control and maintain detailed daily records of site activities. 
 
 Also responsible for construction-related changes, including NCRs, field changes and Claims.
 
 #### 1B USD Yellow Line-4 Metro - Site Manager (onsite)
+
+![linha-amarela-metro1](https://www.metrocptm.com.br/wp-content/uploads/2019/09/mapa-da-rede-metro-0522-abre.jpg)
+
+![linha-amarela-metro2](https://i.pinimg.com/originals/81/bd/98/81bd9842fb71e83a6abdc67e1b2e2995.jpg)
+
 
 Site Construction Manager for multiple projects including the Yellow Line-4 Metro, comprising: large and deep pilling, diaphragm wall & soil treatment. 
 

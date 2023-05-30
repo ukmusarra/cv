@@ -19,7 +19,7 @@ Managing Director | Principal Geotechnical Engineer | Lead Consultant | Project 
 * MSc. Geotechnical Engineer
 * II Level MSc. Tunnel Design Engineer
 
-Performed in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
+Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
 
 Strong commercial capabilities and **experience with bids, technical proposals, Value Engineering and R&D.**
 
@@ -72,17 +72,16 @@ Managing Director
 
 #### Geotechnical Consultancy with background in heavy infrastructure:
 
-* Geotechnical engineering solutions and services for heavy civil infrastructure projects
-* Offering consultation on foundation design, soil mechanics, and geotechnical aspects related to bridges, highways, tunnels, dams, and other heavy structures
-* Conducting geotechnical investigations and studies for site characterization and risk assessment, including soil testing, rock testing, and site instrumentation
-* Providing geotechnical design recommendations and analysis for foundation systems, retaining walls, earthworks, and other geotechnical design elements
-* Offering construction inspection and geotechnical construction materials testing services
-* Providing geotechnical risk assessments
-* Providing geotechnical consultancy services for site remediation, slope stabilization, and foundation repair
-* Providing geohazard assessments and risk mitigation plans
-* Conducting geotechnical research and development, and providing technical training and development for clients
-
-**Competency on data automation, machine learning algorithms, programming and Data Science analysis.**
+* Geotechnical solutions for heavy civil infrastructure projects
+* Consultation on foundation design, soil mechanics, and geotechnical aspects related to bridges, highways, tunnels, dams, and other heavy structures
+* Geotechnical investigations and studies for site characterization and risk assessment, including soil testing, rock testing, and site instrumentation
+* Design recommendations and analysis for foundation systems, retaining walls, earthworks, and other design elements
+* Construction inspection
+* Geotechnical risk assessments
+* Geotechnical consultancy services for site remediation, slope stabilization, and foundation repair
+* Geohazard assessments and risk mitigation plans
+* Geotechnical research and development, technical training and data-driven support
+* **Design and Implementation** data automation, machine learning algorithms, web app deployment and data science analysis.
 
 Principal Geotechnical Engineer
 -------------------------------
@@ -91,37 +90,37 @@ Principal Geotechnical Engineer
 
 #### Lower Thames Crossing - UK
 
-Geotechnical support for tender phase: GBP 5.3-6.3bn estimated cost, comprises 14.5 miles of Dual-3 Lane Expressway, over 50 bridges, two of the world's largest diameter bored tunnels (16m), longest road tunnels in the UK
+Geotechnical support for tender phase: *GBP 5.3-6.3bn estimated cost*, comprises 14.5 miles of Dual-3 Lane Expressway, over 50 bridges, two of the world's largest diameter bored tunnels (16m), longest road tunnels in the UK
 
 #### Tema Port, Ghana - Africa
 
-Team Leader for new optioneering and detail design to LNG (Cryogenic) ISO Truck Loading Facilities Tema Port, Ghana: The terminal has a total LNG storage capacity of approximately 200,000 m3 and was originally designed and constructed to supply natural gas to a single off-taker in the country.
+Team Leader for new optioneering and detail design to *LNG (Cryogenic) ISO Truck Loading Facilities Tema Port, Ghana*: The terminal has a total LNG storage capacity of approximately 200,000 m3 and was originally designed and constructed to supply natural gas to a single off-taker in the country.
 
 #### NEOM - Saudi Arabia
 
-$500bn estimated project cost, it is world's most ambitious project at the moment. It will comprise the construction of an entire new smart city, covering an area of 26,500 km2, with 170km concept of "linear city". This marvellous project will comprise all different sorts of complex infrastructure, from unique modern bridges, to HSR lines and stations, viaducts, roads, earthworks and complex modern design concepts. Member of the design geotechnical team.
+*$500bn estimated project cost, it is world's most ambitious project at the moment*. Construction of an entire new smart city, covering an area of 26,500 km2, with 170km concept of "linear city". Includes complex infrastructure, from unique modern bridges, to HSR lines and stations, earthworks and complex modern design concepts. Member of the geotechnical design team.
 
 #### Langstone Flood and Coastal Erosion Risk Management Scheme - UK
 
-Geotechnical team Leader for the scheme detailed design, procured by coastal erosion and flood Risk Management Authority (RMA). This project is part of the Langstone Flood and Coastal Erosion Risk Management (FCERM) program implementation. The scheme, which will introduce new and upgraded defences, is required to provide improved protection against tidal flooding to the village of Langstone.
+Geotechnical team Leader for the scheme detailed design, procured by coastal erosion and flood Risk Management Authority (RMA). This project is part of the *Langstone Flood and Coastal Erosion Risk Management (FCERM) program implementation*. The scheme, which will introduce new and upgraded defences, is required to provide improved protection against tidal flooding to the village of Langstone.
 
 Senior Geotechnical Engineer
 ----------------------------
 
 ### Fairhurst - United Kingdom | Jan 2021 to Nov 2021 | [Website](https://www.fairhurst.co.uk)
 
-Technical Lead of ground Engineering projects including site characterization, geotechnical analysis, geotechnical engineering design, owner's engineering, QA/QC inspection/review, testing and reporting. Part of an integrated delivery team, comprising of other engineering disciplines, professional environmental scientists, project delivery and project support staff on existing and new projects.
-
-Client portfolio included Developers, Owner Occupiers, Funds, Quarry Companies, Network Rail, Rail Infrastructure Contractors, Local Authorities, Civil Engineering Contractors, Renewable Energy Contractors and Oil and Gas service providers
+Technical Lead of ground Engineering projects including *site characterization, geotechnical analysis, geotechnical engineering design, owner's engineering, QA/QC inspection/review, testing and reporting.* Part of an integrated delivery team, comprising of other engineering disciplines, professional environmental scientists, project delivery and project support staff on existing and new projects.
 
 Senior Geotechnical Specialist | Executive Lead >100M USD CapEX
 ---------------------------------------------------------------
 
 ### Vale - Brazil | Out 2019 to Dez 2020 | [Website](http://www.vale.com.br)
 
-Global Executive Support in Geotechnical Engineering to all capital projects above 100M USD CapEx.
+Global Executive Support in Geotechnical Engineering to capital projects above 100M USD CapEx.
 
-Key member to executive technical approval of Capital Projects in all business sectors, including Iron Ore, Base Metals, Energy and Logistics, up to 1B USD value. High level design reviews for varied project types, such as: underground mining in Canada, new tailing dam and port plant in Malaysia, 1 to 3km bridges in Brazil, decommissioning of upstream tailing dams, dry-stacking, NATM tunnels, new and duplicated railways.
+Key member to executive technical approval of Capital Projects in all business sectors, including Iron Ore, Base Metals, Energy and Logistics, up to 1B USD value. 
+
+High level design reviews for varied project types, such as: underground mining in Canada, tailing dam and port plant in Malaysia, 1 to 3km bridges in Brazil, decommissioning of upstream tailing dams, dry-stacking, tunnels and railways.
 
 II Master / Tunnel Design Engineer
 ----------------------------------
@@ -130,9 +129,9 @@ II Master / Tunnel Design Engineer
 
 #### 2.1B EUR High Speed Railway Tunnels - Napoli to Bari
 
-Technical support on the Value Engineering and Finite Difference Method (FDM) analysis using FLAC for the crossing tunnels in High Speed Railway TAV (Treno Alta Velocita) between Napoli and Bari, project with total extension of approximately 18.7 kilometres.
+Technical support on the Value Engineering and Finite Difference Method (FDM) analysis using FLAC for the crossing tunnels in High Speed Railway between Napoli and Bari, project with total extension of approximately 18.7 kilometres.
 
-Post-Master specialization in Tunnel Engineering at Politecnico di Milano along with Design Engineer for Italian top industry leader Rocksoil.
+Post-Master specialization in Tunnel Engineering at Politecnico di Milano along with Design Engineer for Italian industry leader Rocksoil.
 
 Design Manager (onsite)
 -----------------------
@@ -143,7 +142,7 @@ Design Manager (onsite)
 
 Designer's Site Representative for the New International Airport of Mexico City. Extremely challenging project with more than 50m-thick soft clay to be consolidated, interbedded with compact sand layers.
 
-Experience in pre-load surcharge, vacuum, geodrain, jet grouting and general other ground improvement techniques. Full monitoring installed, including real-time data acquisition.
+Experience in *pre-load surcharge, vacuum, geodrain, jet grouting and general other ground improvement techniques. Full monitoring installed, including real-time data acquisition.*
 
 Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons and platform and technical support Engineer on the Observational Method.
 
@@ -160,8 +159,6 @@ Onsite technical supervision for the main 1.4km High Bridge substructure over th
 
 Supervision and geotechnical support for rock socket onshore and offshore bored piles with permanent and temporary steel casing, reaching max 2m diameter and 55m depth, also for shallow foundations, pre-cast shells for pier cofferdam, temporary and permanent sheet piles, embankments, pile testing and silent sheet pile wall.
 
-Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons and platform and technical support Engineer on the Observational Method.
-
 Responsible for review of construction submittals including method statements, NCRs, RFI, CPN, etc. as well as providing technical support to the design team and managing site supervision team of Junior Engineers.
 
 (Senior) Project Engineer / Manager
@@ -175,15 +172,15 @@ Key member of technical office with main duties of re-Design, feasibility analys
 
 Direct contact with subcontractors and designers, attending to pre-bid meetings and proposing technical design changes to save customer's money and time, with excellence in technical practice.
 
-Participated in the design, technical analysis and construction of metro projects consisting of tunnels with cut-and-cover, NATM and TBM technique. Also, when required from the geological profile, rock blasting and ground treatment for break-in break-out shield.
+Participated in the design, technical analysis and construction of metro projects consisting of tunnels with cut-and-cover, NATM and TBM. Also, rock blasting and ground treatment for break-in break-out.
 
 #### 280M USD East Branch Dam - R & D - Geotechnical Lead (staff)
 
 Key member on pre-construction phase for the rehabilitation program (by the USA Army Corps of Engineers) for East Branch Dam.
 
-Scope included new deep rock socket cutoff wall with Hydromill, permeation grouting, foundation grouting, real-time instrumentation and data acquisition (Ultimate Grouting Control), georadar, ground investigation and database in gINT, live enterprise database integrated with SQL and ArcGIS.
+Scope included new *deep rock socket cutoff wall with Hydromill, permeation grouting, foundation grouting, real-time instrumentation and data acquisition (Ultimate Grouting Control), georadar, ground investigation and database in gINT, live enterprise database integrated with SQL and ArcGIS.*
 
-Key member contributing to technical scope and specification requirements integration to the in-house built Data Management System, the first which has been ever done in USA with 3D real-time construction data for dams. I actively participated in the technical submittals and construction technical support.
+Key member contributing to technical scope and specification requirements integration to the in-house built Data Management System, *the first which has been ever done in USA with 3D real-time construction data for dams.* I actively participated in the technical submittals and construction technical support.
 
 #### 1.1B USD Transbay Tower/Salesforce - San Francisco - Project Engineer (onsite)
 
@@ -191,11 +188,15 @@ Site Resident Project Engineer for the construction of Transbay Tower deep found
 
 #### 1.58B USD Chinatown and Moscone metro stations - 3rd Street Light Rail - Central T Subway - Project Engineer (onsite)
 
-Site Resident Project Engineer for the construction and management of new metro stations in urban areas of San Francisco, liaising with design team to resolve site-related technical queries. My responsibilities included to manage construction teams, to monitor project progress, budget control and maintain detailed daily records of site activities. Also responsible for construction-related changes, including NCRs, Field Changes and Claims, providing detailed site and technical information to substantiate the changes.
+Site Resident Project Engineer for the construction and management of new metro stations in urban areas of San Francisco, liaising with design team to resolve site-related technical queries. My responsibilities included to manage construction teams, monitor project progress, budget control and maintain detailed daily records of site activities. 
+
+Also responsible for construction-related changes, including NCRs, field changes and Claims.
 
 #### 1B USD Yellow Line-4 Metro - Site Manager (onsite)
 
-Site Construction Manager for Multiple Projects including the Yellow Line-4 Metro, comprising: large and deep pilling, diaphragm wall & soil treatment. The Yellow Line-4 is a metro line with 12.8 km of extension, 11 stations, total investment of 1.9B USD divided into two phases.
+Site Construction Manager for multiple projects including the Yellow Line-4 Metro, comprising: large and deep pilling, diaphragm wall & soil treatment. 
+
+The Yellow Line-4 is a metro line with 12.8 km of extension, 11 stations, total investment of 1.9B USD divided into two phases.
 
 Project Engineer | QA/QC Engineer (onsite)
 ------------------------------------------
@@ -225,7 +226,7 @@ Master of Science in Geotechnical Engineering | Brazil | 2011 to 2014
 
 4 years part-time Master of Science in Geotechnical Engineering.
 
-Bachelor of Science (Hons) in Civil Engineering | Brazil | 2003 to 2008
+Bachelor of Science in Civil Engineering | Brazil | 2003 to 2008
 -----------------------------------------------------------------------
 
 ### University of Santa Catarina
@@ -258,11 +259,10 @@ Professional Development
 Extra
 =====
 
-* Guitar player, data science enthusiast & self-taught IT programmer.
-* Experience with C#, VBA, Python, Javascript, SQL, HTML, CSS and PHP.
+* Guitar player.
 * Volunteered as football coach for kids between 6 and 12 years old in USA.
 * Fluent in Portuguese, English and Italian. Advanced Spanish and Basic Danish
-* The link at the top of this CV 'uFace' is my mobile app. I have developed, for educational purposes, a calculation of radial displacements for deep tunnels in cohesive soils based in new analytical approach, considering non-dimensional variables. It is based on the research work from multidisciplinary team at PoliMi. You can download it on GooglePlay.
+* [uFace](https://play.google.com/store/apps/details?id=mmeng.org.ufaceapp) is my mobile app available on GooglePlay.
 
 Full proficiency in the following IT and Engineering Software:
 --------------------------------------------------------------

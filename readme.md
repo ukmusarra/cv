@@ -14,10 +14,13 @@ Executive Summary
 
 Managing Director | Principal Geotechnical Engineer | Lead Consultant | Project Manager
 
-* 16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)
-* BSc. Civil Engineer
-* MSc. Geotechnical Engineer
-* II Level MSc. Tunnel Design Engineer
+> **16+ years of international work experience in top global infrastructures projects (USA, Denmark, Mexico, Italy, Brazil, UK)**
+> 
+> BSc. Civil Engineer
+> 
+> MSc. Geotechnical Engineer
+> 
+> II Level MSc. Tunnel Design Engineer
 
 Experience in World's Top-Notch projects with **strong leadership, solid technical background, design, construction and consultancy.**
 

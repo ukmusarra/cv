@@ -87,6 +87,14 @@ Managing Director
 * Geotechnical research and development, technical training and data-driven support
 * **Design and Implementation** data automation, machine learning algorithms, web app deployment and data science analysis.
 
+<!---
+#### Clients
+
+<p float="left">
+  <img src="https://www.cemexventures.com/wp-content/uploads/2022/12/EMerald_logo.png)" width="100" />
+</p>
+--->
+
 * * *
 
 <img src="https://aecom.com/wp-content/uploads/2023/03/AECOM_Logo_Black_RGB.jpg" alt= "" width="20%"/>

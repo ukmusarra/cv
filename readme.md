@@ -2,7 +2,6 @@ MARCELLO MUSARRA
 ================
 
 *   United Kingdom
-*   ukmusarra@gmail.com
 
 *   [LinkedIN](https://www.linkedin.com/in/marcello-musarra-29836428)
 *   [uFace](https://play.google.com/store/apps/details?id=mmeng.org.ufaceapp)

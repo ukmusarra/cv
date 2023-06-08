@@ -101,7 +101,7 @@ Managing Director
 Principal Geotechnical Engineer
 -------------------------------
 
-### AECOM - United Kingdom | Nov 2021 to Dec 2022 | [Website](https://www.aecom.com) 
+### AECOM - United Kingdom | [Website](https://www.aecom.com) 
 
 #### Lower Thames Crossing - UK 
 
@@ -134,7 +134,7 @@ Geotechnical team Leader for the scheme detailed design, procured by coastal ero
 Senior Geotechnical Engineer
 ----------------------------
 
-### Fairhurst - United Kingdom | Jan 2021 to Nov 2021 | [Website](https://www.fairhurst.co.uk)
+### Fairhurst - United Kingdom | [Website](https://www.fairhurst.co.uk)
 
 Technical Lead of ground Engineering projects including:
 
@@ -154,7 +154,7 @@ Part of an integrated delivery team, comprising of other engineering disciplines
 Senior Geotechnical Specialist | Executive Lead >100M USD CapEX
 ---------------------------------------------------------------
 
-### Vale - Brazil | Out 2019 to Dez 2020 | [Website](http://www.vale.com.br)
+### Vale - Brazil | [Website](http://www.vale.com.br)
 
 Global Executive Support in Geotechnical Engineering to capital projects above 100M USD CapEx.
 
@@ -183,7 +183,7 @@ High level design reviews for varied project types, such as:
 II Master / Tunnel Design Engineer
 ----------------------------------
 
-### Politecnico di Milano and Rocksoil - Italy | Jan 2019 to Jan 2020 | [Website](https://www.rocksoil.com)
+### Politecnico di Milano and Rocksoil - Italy | [Website](https://www.rocksoil.com)
 
 #### 2.1B EUR High Speed Railway Tunnels - Napoli to Bari
 ![napoli-bari](https://www.railjournal.com/wp-content/uploads/2020/09/Bari-Naples-HS-route-map.jpg)
@@ -200,7 +200,7 @@ Post-Master specialization in Tunnel Engineering at Politecnico di Milano along 
 Design Manager (onsite)
 -----------------------
 
-### Royal Haskoning - Mexico | Jul 2018 to Jan 2019 | [Project Info](https://en.wikipedia.org/wiki/Mexico_City_Texcoco_Airport)
+### Royal Haskoning - Mexico | [Project Info](https://en.wikipedia.org/wiki/Mexico_City_Texcoco_Airport)
 
 #### 13.3B USD New International Airport of Mexico City
 ![airport-mx](https://www.international-construction.com/Images/1260x628/20210701-165014-New-Mexico-City-international-airport.jpg)
@@ -221,7 +221,7 @@ Team leader on Runway 6, technical support on Runways 2 & 3, commercial aprons a
 Senior Geotechnical Engineer (onsite)
 -------------------------------------
 
-### Arup - Denmark | Mar 2017 to Jul 2018 | [Website](https://www.arup.com/projects/fjord-link-frederikssund)
+### Arup - Denmark | [Website](https://www.arup.com/projects/fjord-link-frederikssund)
 
 #### 160M EUR Roskilde Fjord Link Bridge
 
@@ -240,7 +240,7 @@ Responsible for review of construction submittals including method statements, N
 Project Engineer to Senior / Manager
 -----------------------------------
 
-### Keller - United States of America | Jan 2012 to Dec 2016 | [Website](https://www.keller.com)
+### Keller - United States of America | [Website](https://www.keller.com)
 
 #### Technical Department - Project Manager (staff)
 
@@ -288,7 +288,7 @@ The Yellow Line-4 is a metro line with 12.8 km of extension, 11 stations, total 
 Project Engineer | QA/QC Engineer (onsite)
 ------------------------------------------
 
-### Geofix | Enbrageo | Camilotti - Brazil | Jan 2007 to Dec 2011
+### Geofix | Enbrageo | Camilotti - Brazil
 
 Management and implementation of CFA, diaphragm wall and anchors at geotechnical jobsites. Supported to achieved goal of ISO certification in June 2011.
 
@@ -299,22 +299,22 @@ Resident in the construction of two high rise residential towers of 24-story eac
 Education
 =========
 
-II Level Master | Tunnel Engineering | Italy | 2019 to 2020
------------------------------------------------------------
+II Level Master | Tunnel Engineering | Italy
+--------------------------------------------
 
 ### Politecnico di Milano
 
-4 months full-time followed by 8 months part-time II Level MSc. course in Tunnel Engineering.
+part-time II Level MSc. course in Tunnel Engineering.
 
-Master of Science in Geotechnical Engineering | Brazil | 2011 to 2014
----------------------------------------------------------------------
+Master of Science in Geotechnical Engineering | Brazil
+-------------------------------------------------------
 
 ### University of Sao Paulo
 
 4 years part-time Master of Science in Geotechnical Engineering.
 
-Bachelor of Science in Civil Engineering | Brazil | 2003 to 2008
------------------------------------------------------------------------
+Bachelor of Science in Civil Engineering | Brazil 
+-------------------------------------------------
 
 ### University of Santa Catarina
 
